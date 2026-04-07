@@ -1,5 +1,6 @@
 # Awesome WordPress
 A curated list of amazingly awesome WordPress resources, themes, plugins and shiny things. 
+- [Alt Audit](https://wordpress.org/plugins/alt-audit/) - Bulk alt text manager and image SEO plugin for WordPress. Scans media library, generates WCAG-compliant alt text using AI or free rule-based templates. SaaS platform at altaudit.com.
 
 Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php](https://github.com/ziadoz/awesome-php).
 
